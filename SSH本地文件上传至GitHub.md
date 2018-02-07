@@ -4,7 +4,7 @@
 
 `$ ssh-keygen -t rsa -C "your_email@youremail.com"`
 
-> ex:$ ssh-keygen -t rsa -C "123456@qq.com"
+> ex：$ ssh-keygen -t rsa -C "123456@qq.com"
 
 ## 2.验证SSH是否成功
 
@@ -12,11 +12,11 @@
 
 ## 3.设置username和email
 
-`$ git config --global user.name "your name"
-$ git config --global user.email "your_email@youremail.com"`
+- `$ git config --global user.name "your name"`
+- `$ git config --global user.email "your_email@youremail.com"`
 
-> your name：GitHub用户名
-> your_email：GitHub注册邮箱
+> - your name：GitHub用户名
+> - your_email：GitHub注册邮箱
 
 # 本地文件上传到GitHub
 
